@@ -22,10 +22,11 @@ including:
 
 ## Repo Layout
 
-* Covid_19_Analysis.ipynb: Python Notebook,which contains all the python code related to the analysis.
+* Covid_19_Analysis.ipynb: Jupyter Notebook, which contains all the python code related to the analysis. Check the [Colab Notebook](https://colab.research.google.com/drive/1WlgRmNyRzKlRkh1Acfk014CjUfYWKknH?usp=sharing) for a better experience.
 * Covid_19_Analysis.pdf: For those who don't have Python Notebook, these file serve as Covid_19_Analysis.ipynb for demonstration purpose.
 * Img: Images that are being used for this project are in this folder.
 * blog: PDF version of the medium blog post.
+
 
 ## Packages Used
 
